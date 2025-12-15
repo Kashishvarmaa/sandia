@@ -1246,7 +1246,7 @@ Special thanks to:
 For questions, issues, or collaboration:
 
 - **GitHub Issues**: [Create an issue](https://github.com/yourusername/sandia/issues)
-- **Email**: ajay.patil@rvu.edu.in, kashish.varma@rvu.edu.in
+- **Email**: ajaysp.btech22@rvu.edu.in, kashishvc.btech22@rvu.edu.in
 - **Institution**: RV University, Bangalore, India
 
 ---
